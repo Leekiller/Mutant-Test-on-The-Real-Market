@@ -12,3 +12,4 @@
 | Jun       | (to be tuned) |
 | Jul       | (to be tuned) |
 | Aug       | (to be tuned) |
+| Summary   | 5x - 50x      | 15.80 %       | 1.58 USDT     | 10.00 USDT    | 11.58 USDT    |
